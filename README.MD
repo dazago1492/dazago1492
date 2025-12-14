@@ -5,7 +5,7 @@
 
 ### :space_invader: &nbsp;About Me
 
-Currently working at STRATESYS  [STRATESYS](https://www.stratesys-ts.com/es/)\
+Currently working at [STRATESYS](https://www.stratesys-ts.com/es/)\
 Love for data analysis, science, data and innovation.\
 Passion for problem solving and discovering business insights.\
 Living in Madrid, Spain.
