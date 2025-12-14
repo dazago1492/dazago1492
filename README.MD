@@ -5,10 +5,10 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working at Mia Advanced Systems [MIA](https://mia.as/) \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for data analysis, science, data and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passion for problem solving and discovering business insights.\
-&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Madrid, Spain.
+Currently working at STRATESYS  \
+Love for data analysis, science, data and innovation.\
+Passion for problem solving and discovering business insights.\
+Living in Madrid, Spain.
 
 <p align="center">
   <a href="mailto:dazago1492@gmail.com?subject=Hello%20Daniel%20Sánchez"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
