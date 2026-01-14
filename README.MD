@@ -2,25 +2,33 @@
 
 ![a (1)](https://user-images.githubusercontent.com/80102926/159154155-79f7ba92-8304-4f1a-9093-7ac26391db00.png)
 
-
 ### :space_invader: &nbsp;About Me
 
-Currently working at [STRATESYS](https://www.stratesys-ts.com/es/)\
-Love for data analysis, science, data and innovation.\
-Passion for problem solving and discovering business insights.\
+Currently working at [STRATESYS](https://www.stratesys-ts.com/es/)  
+Love for data analysis, science, data and innovation.  
+Passion for problem solving and discovering business insights.  
 Living in Madrid, Spain.
 
 <p align="center">
-  <a href="mailto:dazago1492@gmail.com?subject=Hello%20Daniel%20Sánchez"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
-  <a href="https://es.linkedin.com/in/daniel-camilo-sanchez-gomez?trk=public_profile_samename-profile"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- 
-
+  <a href="mailto:dazago1492@gmail.com?subject=Hello%20Daniel%20Sánchez">
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href="https://es.linkedin.com/in/daniel-camilo-sanchez-gomez?trk=public_profile_samename-profile">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 <hr/>
 
-<details>
-  <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
+### :computer: &nbsp;Main tech knowledge
+
+<p align="center">
+
+![Logos](https://user-images.githubusercontent.com/80102926/159154342-e60f5d36-0b01-44b6-a40e-ccc9c8cdd97d.png)
+![image](https://github.com/dazago1492/dazago1492/blob/434d483abad721185e2d5eb0113a5de739462b34/SAP-Analytics-Cloud-2.png)
+
+</p>
+
   <br/>
 
 ![Logos](https://user-images.githubusercontent.com/80102926/159154342-e60f5d36-0b01-44b6-a40e-ccc9c8cdd97d.png)
