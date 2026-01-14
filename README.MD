@@ -24,6 +24,6 @@ Living in Madrid, Spain.
   <br/>
 
 ![Logos](https://user-images.githubusercontent.com/80102926/159154342-e60f5d36-0b01-44b6-a40e-ccc9c8cdd97d.png)
-SAP ANALYTICS CLOUD
+![image alt](https://github.com/dazago1492/dazago1492/blob/434d483abad721185e2d5eb0113a5de739462b34/SAP-Analytics-Cloud-2.png)
   </p>
 
